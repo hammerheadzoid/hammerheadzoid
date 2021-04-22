@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hammerheadzoid
-- 👀 I’m interested in game development. 
-- 🌱 I’m currently learning Unity 3d and Blender
+- 👀 I am a game developer. 
+- 🌱 I use Unity 3d and Blender
 - 📫 How to reach me - email me at donalod@gmail.com
 
 <!---
